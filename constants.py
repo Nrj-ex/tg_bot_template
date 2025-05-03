@@ -1,3 +1,3 @@
-(
-    MENU, HELP
-) = map(chr, range(1, 3))
+BOT_NAME = 'bot_name'
+MENU = 'menu'
+HELP = 'help'
